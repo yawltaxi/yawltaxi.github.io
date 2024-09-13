@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yawltaxi.github.io/sitemap.html.gz
+Sitemap: https://yawltaxi.github.io/app/sitemap.html.gz
+Sitemap: https://yawltaxi.github.io/assets/sitemap.html.gz
+Sitemap: https://yawltaxi.github.io/css/sitemap.html.gz
+Sitemap: https://yawltaxi.github.io/includes/sitemap.html.gz
+Sitemap: https://yawltaxi.github.io/item/sitemap.html.gz
+Sitemap: https://yawltaxi.github.io/src/sitemap.html.gz
